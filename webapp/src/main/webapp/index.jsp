@@ -35,6 +35,9 @@
    <h2> venkat123@gmail.com </h2>
    <br>
 
-   <p>Hi, can you please elaborate I would like to be able to take different projects and build them in sequence with each other with a Pipeline ? Are you referring to GitHub/Bitbucket/GitLab projects here ? You can run stages in sequence or parallel and can choose to run them all on the same node or different nodes </p>
+   <p>Hi, can you please elaborate I would like to be able to take different projects and build them in sequence with each other with a Pipeline ? Are you referring to GitHub/Bitbucket/GitLab projects here ? You can run stages in sequence or parallel and can choose to run them all on the same node or different nodes </p
+
+
+   <p> i am performing automatic trigger </p>>
   
 </form>
