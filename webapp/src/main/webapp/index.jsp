@@ -1,4 +1,4 @@
-<form action="action_page.php">
+<orm action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
@@ -35,17 +35,19 @@
    <h2> venkat123@gmail.com </h2>
    <br>
 
-   <p>Hi, can you please elaborate I would like to be able to take different projects and build them in sequence with each other with a Pipeline ? Are you referring to GitHub/Bitbucket/GitLab projects here ? You can run stages in sequence or parallel and can choose to run them all on the same node or different nodes </p
+   <h2>HTML Forms</h2>
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="John"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Doe"><br><br>
+  <input type="submit" value="Submit">
+</form> 
 
+<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
 
-   <p> i am performing automatic trigger </p>
+</body>
+</html>
 
-   <h3> thank you </h3
-   <br>
-   <h> hi </h1>
-   <h2> hello !! how are you </h2>>
-   <h1> hello </h1>
-   <h2> hello !!!! </h2>
 
 
 
